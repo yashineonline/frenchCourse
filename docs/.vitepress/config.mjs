@@ -1,9 +1,47 @@
-export default {
+import { defineConfig } from "vitepress";
+import { VitePWA } from "vite-plugin-pwa";
+
+export default defineConfig({
+  // IMPORTANT: must match your repo name for GitHub Pages project sites
+  base: "/frenchCourse/",
   title: "French PR Accelerator",
   description: "Content-first French plan for PR language tests",
-  // IMPORTANT for GitHub Project Pages:
-  // base must be "/<REPO_NAME>/"
-  base: "/frenchCourse/",
+  head: [
+  ["meta", { property: "og:title", content: "French PR Accelerator" }],
+  ["meta", { property: "og:description", content: "Free French course for Canadian PR (TEF/TCF oriented)" }],
+  // ["meta", { property: "og:image", content: "/frenchCourse/og.png" }],
+  ["meta", { property: "og:url", content: "https://yashineonline.github.io/frenchCourse/" }],
+  ["meta", { name: "twitter:card", content: "summary_large_image" }]
+],
+  vite: {
+    plugins: [
+      VitePWA({
+        registerType: "autoUpdate",
+        // includeAssets: [
+          // "favicon.ico",
+          // "icons/pwa-192.png",
+          // "icons/pwa-512.png",
+         // "icons/apple-touch-icon.png",
+          // "og.png"
+        ],
+        manifest: {
+          name: "French PR Accelerator",
+          short_name: "French PR",
+          description: "Learn French fast for Canadian PR language tests",
+          start_url: "/frenchCourse/",
+          scope: "/frenchCourse/",
+          display: "standalone",
+          theme_color: "#111827",
+          background_color: "#111827",
+          // icons: [
+            // { src: "/frenchCourse/icons/pwa-192.png", sizes: "192x192", type: "image/png" },
+            // { src: "/frenchCourse/icons/pwa-512.png", sizes: "512x512", type: "image/png" }
+          // ]
+        }
+      })
+    ]
+  }
+});
   themeConfig: {
     nav: [
       { text: "Start", link: "/00-START-TODAY-2H" },
@@ -33,3 +71,5 @@ export default {
     ]
   }
 }
+
+
