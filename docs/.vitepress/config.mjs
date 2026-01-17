@@ -55,7 +55,8 @@ export default defineConfig({
         { text: "Start Today", link: "/00-START-TODAY-2H" },
         { text: "PR Targets", link: "/01-PR-TARGETS-TEF-TCF" },
         { text: "Spanish Bridge", link: "/02-SPANISH-BRIDGE" },
-        { text: "Study Plan (A0→B2)", link: "/12-STUDY-PLAN-A0-B2" }
+        { text: "Study Plan (A0→B2)", link: "/12-STUDY-PLAN-A0-B2" },
+        { text: "SRS + Anki Setup", link: "/13-ANKI-SRS-SETUP" }        
       ]
       },
       { text: "Skills", items: [
