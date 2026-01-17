@@ -25,9 +25,9 @@ By the end of Phase 1 you will have:
 - A curated list of **free** resources (TV5MONDE, RFI, YouTube)
 
 ### Do this first
-1. `docs/00-START-TODAY-2H.md`
-2. `docs/01-PR-TARGETS-TEF-TCF.md`
-3. Start the daily routine in `docs/08-TRACKER-8-WEEKS.md`
+1. [Start Today (2 hours)](00-START-TODAY-2H.md)
+2. [PR Targets (TEF/TCF)](01-PR-TARGETS-TEF-TCF.md)
+3. Start the daily routine in [Tracker (8 weeks)](08-TRACKER-8-WEEKS.md)
 
 ---
 
@@ -73,7 +73,7 @@ If you can do 3 hours/day, add:
 
 ## Spanish advantage
 Spanish helps a lot (cognates, verb concepts, gender), but watch false friends.
-See: `docs/02-SPANISH-BRIDGE.md`
+See: [Spanish → French Bridge](02-SPANISH-BRIDGE.md)
 
 ---
 
