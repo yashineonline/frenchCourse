@@ -3,7 +3,7 @@ export default {
   description: "Content-first French plan for PR language tests",
   // IMPORTANT for GitHub Project Pages:
   // base must be "/<REPO_NAME>/"
-  base: "/<REPO_NAME>/",
+  base: "/frenchCourse/",
   themeConfig: {
     nav: [
       { text: "Start", link: "/00-START-TODAY-2H" },
