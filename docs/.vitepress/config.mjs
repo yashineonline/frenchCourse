@@ -74,7 +74,8 @@ export default defineConfig({
         { text: "Speaking Prompts", link: "/10-PROMPTS-SPEAKING-60" },
         { text: "Writing Prompts", link: "/11-PROMPTS-WRITING-20" }
       ]
-      }
+      },
+      { text: "Lessons (Interactive)", link: "/20-LESSONS-INDEX" }
     ]
   }
 });
