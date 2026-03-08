@@ -7,7 +7,7 @@ title: Lessons (Interactive)
 These are **click-through** lessons (one screen at a time). Use them on phone or desktop.
 
 ## A0 lessons
-- **Verbs (present tense):** être, avoir, manger, boire → [Open](./21-VERBS-A0)
+- **Verbs (present tense):** être, avoir, manger, boire → [Open](21-VERBS-A0)
 - **Letters & pronunciation (A→Z):** [Open](./22-LETTERS-A0)
 - **French sounds & accents:** [Open](./23-FRENCH-SOUNDS-A0)
 - **Survival phrases (with optional Spanish/Arabic support):** [Open](./24-PHRASE-TRAINER-A0)
