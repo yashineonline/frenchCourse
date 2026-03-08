@@ -1,0 +1,48 @@
+{
+  "title": "A0 Questions",
+  "subtitle": "Get answers fast.",
+  "cards": [
+    {
+      "title": "Question words",
+      "fr": "qui / quoi / où / quand / comment / pourquoi / combien",
+      "examples": [
+        "Qui ? = who",
+        "Où ? = where",
+        "Combien ? = how many/how much"
+      ]
+    },
+    {
+      "title": "Yes/no questions (easy)",
+      "fr": "You can just raise your intonation: Tu vas bien ? / Vous avez du temps ?",
+      "examples": [
+        "Tu viens ? (You coming?)",
+        "On y va ? (Shall we go?)"
+      ]
+    },
+    {
+      "title": "Est-ce que (friendly)",
+      "fr": "Est-ce que tu aimes le café ? / Est-ce que vous parlez anglais ?",
+      "examples": [
+        "Est-ce que + sentence = question (no word order stress)"
+      ]
+    },
+    {
+      "title": "Mini-drill",
+      "fr": "Make a question",
+      "drill": [
+        {
+          "prompt": "Turn into a question: Tu es ici.",
+          "answer": "Tu es ici ?"
+        },
+        {
+          "prompt": "Ask politely: you have time?",
+          "answer": "Est-ce que vous avez du temps ?"
+        },
+        {
+          "prompt": "Ask: where is the metro?",
+          "answer": "Où est le métro ?"
+        }
+      ]
+    }
+  ]
+}

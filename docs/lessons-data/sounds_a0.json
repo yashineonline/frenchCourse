@@ -1,0 +1,94 @@
+{
+  "title": "A0 French sounds (special)",
+  "subtitle": "Small chunks you can master fast.",
+  "cards": [
+    {
+      "title": "Clusters: br / cr / dr / fr / gr / pr / tr",
+      "fr": "Practice: br, cr, dr, fr, gr, pr, tr",
+      "examples": [
+        "br: bruit, bravo, bracelet",
+        "cr: croissant, crayon, créer",
+        "dr: drôle, dragon",
+        "fr: français, frère, froid",
+        "gr: grand, gris, groupe",
+        "pr: prendre, premier, propre",
+        "tr: très, travail, train"
+      ],
+      "note": "Keep it smooth: one breath → one cluster."
+    },
+    {
+      "title": "É (accent aigu) = ‘ay’",
+      "fr": "é",
+      "examples": [
+        "café",
+        "été",
+        "école",
+        "étudiant"
+      ],
+      "note": "é is a clear ‘ay’ sound (not ‘eh’)."
+    },
+    {
+      "title": "È / Ê (accent grave / circonflexe) = ‘eh’",
+      "fr": "è / ê",
+      "examples": [
+        "père",
+        "mère",
+        "très",
+        "fête",
+        "être"
+      ],
+      "note": "Often more open than é. Listen for ‘eh’."
+    },
+    {
+      "title": "À (accent grave) = same sound as a",
+      "fr": "à",
+      "examples": [
+        "à",
+        "là",
+        "voilà"
+      ],
+      "note": "Accent marks the word (often grammar), not a new sound here."
+    },
+    {
+      "title": "Ç (c cédille) = ‘s’",
+      "fr": "ç",
+      "examples": [
+        "ça",
+        "garçon",
+        "leçon"
+      ],
+      "note": "ç makes c sound like s before a/o/u."
+    },
+    {
+      "title": "J (soft ‘zh’)",
+      "fr": "j",
+      "examples": [
+        "je",
+        "jour",
+        "joli",
+        "bonjour"
+      ],
+      "note": "It’s like the ‘s’ in ‘measure’ (English), a soft ‘zh’."
+    },
+    {
+      "title": "V (stronger than English v)",
+      "fr": "v",
+      "examples": [
+        "ville",
+        "voiture",
+        "avec"
+      ],
+      "note": "Keep the lower lip on upper teeth: vvvvv."
+    },
+    {
+      "title": "Y (two sounds)",
+      "fr": "y",
+      "examples": [
+        "yaourt (like ‘ya’)",
+        "style (like ‘i’)",
+        "pays (like ‘ay’)"
+      ],
+      "note": "Y changes depending on the word — don’t overthink, imitate."
+    }
+  ]
+}

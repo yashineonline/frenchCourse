@@ -1,0 +1,115 @@
+{
+  "title": "A0 Mini-dialogs",
+  "subtitle": "Reveal line by line, then role-play.",
+  "dialogs": [
+    {
+      "title": "Café order",
+      "goal": "Order one drink politely.",
+      "lines": [
+        {
+          "who": "A",
+          "fr": "Bonjour !",
+          "meaning_en": "Hello!",
+          "es": "Hola.",
+          "ar_tr": "ahlan."
+        },
+        {
+          "who": "B",
+          "fr": "Bonjour.",
+          "meaning_en": "Hello.",
+          "es": "Hola.",
+          "ar_tr": "ahlan."
+        },
+        {
+          "who": "A",
+          "fr": "Un café, s’il vous plaît.",
+          "meaning_en": "A coffee, please.",
+          "es": "Un café, por favor.",
+          "ar_tr": "qahwa, min faDlak."
+        },
+        {
+          "who": "B",
+          "fr": "Voilà.",
+          "meaning_en": "Here you go.",
+          "es": "Aquí.",
+          "ar_tr": "tafaddal."
+        },
+        {
+          "who": "A",
+          "fr": "Merci !",
+          "meaning_en": "Thanks!",
+          "es": "Gracias.",
+          "ar_tr": "shukran."
+        }
+      ]
+    },
+    {
+      "title": "Directions (super short)",
+      "goal": "Ask where something is.",
+      "lines": [
+        {
+          "who": "A",
+          "fr": "Excusez-moi.",
+          "meaning_en": "Excuse me.",
+          "es": "Perdón.",
+          "ar_tr": "‘afwan."
+        },
+        {
+          "who": "A",
+          "fr": "Où est le métro ?",
+          "meaning_en": "Where is the метро?",
+          "es": "¿Dónde está el metro?",
+          "ar_tr": "wayn al-mitro?"
+        },
+        {
+          "who": "B",
+          "fr": "Là-bas, à droite.",
+          "meaning_en": "Over there, on the right.",
+          "es": "Allí, a la derecha.",
+          "ar_tr": "hunaak, ‘ala al-yamiin."
+        },
+        {
+          "who": "A",
+          "fr": "Merci beaucoup.",
+          "meaning_en": "Thanks a lot.",
+          "es": "Muchas gracias.",
+          "ar_tr": "shukran ktiir."
+        }
+      ]
+    },
+    {
+      "title": "Introductions",
+      "goal": "Say your name + nice to meet you.",
+      "lines": [
+        {
+          "who": "A",
+          "fr": "Bonjour, je m’appelle … .",
+          "meaning_en": "Hello, my name is … .",
+          "es": "Hola, me llamo … .",
+          "ar_tr": "ahlan, ismi … ."
+        },
+        {
+          "who": "B",
+          "fr": "Enchanté(e) !",
+          "meaning_en": "Nice to meet you!",
+          "es": "Encantado/a.",
+          "ar_tr": "tasharrafna."
+        },
+        {
+          "who": "A",
+          "fr": "Ça va ?",
+          "meaning_en": "How are you?",
+          "es": "¿Qué tal?",
+          "ar_tr": "kif 7aalk?"
+        },
+        {
+          "who": "B",
+          "fr": "Ça va bien, merci.",
+          "meaning_en": "I’m good, thanks.",
+          "es": "Estoy bien, gracias.",
+          "ar_tr": "ana bikhayr, shukran."
+        }
+      ]
+    }
+  ]
+}

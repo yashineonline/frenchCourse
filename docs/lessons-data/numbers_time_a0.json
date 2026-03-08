@@ -1,0 +1,56 @@
+{
+  "title": "A0 Numbers & time",
+  "subtitle": "Enough for introductions + daily life.",
+  "cards": [
+    {
+      "title": "0–10",
+      "fr": "0 zéro, 1 un, 2 deux, 3 trois, 4 quatre, 5 cinq, 6 six, 7 sept, 8 huit, 9 neuf, 10 dix",
+      "examples": [
+        "Repeat fast: zéro-un-deux-trois…",
+        "Neuf (sounds like ‘nœf’)"
+      ]
+    },
+    {
+      "title": "11–20",
+      "fr": "11 onze, 12 douze, 13 treize, 14 quatorze, 15 quinze, 16 seize, 17 dix-sept, 18 dix-huit, 19 dix-neuf, 20 vingt",
+      "examples": [
+        "Key: 12 douze ≈ ‘dooz’"
+      ]
+    },
+    {
+      "title": "Telling time (easy)",
+      "fr": "Il est … heure(s). / Il est … et quart. / … et demie. / … moins le quart.",
+      "examples": [
+        "Il est deux heures.",
+        "Il est trois heures et quart.",
+        "Il est cinq heures moins le quart."
+      ]
+    },
+    {
+      "title": "Dates (super basic)",
+      "fr": "Nous sommes le … / Aujourd’hui, c’est le …",
+      "examples": [
+        "Nous sommes le 4 mars.",
+        "Aujourd’hui, c’est le 4 mars 2026."
+      ]
+    },
+    {
+      "title": "Mini-drill",
+      "fr": "Say it out loud",
+      "drill": [
+        {
+          "prompt": "It is 1:30 →",
+          "answer": "Il est une heure et demie."
+        },
+        {
+          "prompt": "Today is March 4 →",
+          "answer": "Aujourd’hui, c’est le 4 mars."
+        },
+        {
+          "prompt": "It is 7:15 →",
+          "answer": "Il est sept heures et quart."
+        }
+      ]
+    }
+  ]
+}

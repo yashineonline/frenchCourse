@@ -1,0 +1,106 @@
+{
+  "title": "A0 Survival Phrases",
+  "subtitle": "French is the target; support is optional.",
+  "phrases": [
+    {
+      "id": "hello",
+      "fr": "Bonjour !",
+      "meaning_en": "Hello!",
+      "es": "Hola.",
+      "ar_tr": "ahlan.",
+      "ar": "أهلاً",
+      "teacher_es": "Di “ola”. Ahora di en francés: “bon-jour”.",
+      "teacher_ar_tr": "quuli “ahlan”. del-wa’ti quuli bil-faransii: “bon-jour”."
+    },
+    {
+      "id": "goodbye",
+      "fr": "Au revoir !",
+      "meaning_en": "Goodbye!",
+      "es": "Adiós.",
+      "ar_tr": "ma‘a as-salaama.",
+      "ar": "مع السلامة",
+      "teacher_es": "Di “a-dyos”. Ahora di en francés: “o re-vwar”.",
+      "teacher_ar_tr": "quuli “ma‘a as-salaama”. del-wa’ti quuli bil-faransii: “o re-vwar”."
+    },
+    {
+      "id": "please",
+      "fr": "S’il vous plaît.",
+      "meaning_en": "Please.",
+      "es": "Por favor.",
+      "ar_tr": "min faDlak (to a woman: min faDl-ek).",
+      "ar": "من فضلك",
+      "teacher_es": "Di “por fa-vor”. Ahora di en francés: “sil vu plè”.",
+      "teacher_ar_tr": "quuli “min faDlak”. del-wa’ti quuli bil-faransii: “sil vu plè”."
+    },
+    {
+      "id": "thanks",
+      "fr": "Merci.",
+      "meaning_en": "Thank you.",
+      "es": "Gracias.",
+      "ar_tr": "shukran.",
+      "ar": "شكراً",
+      "teacher_es": "Di “gra-syas”. Ahora di en francés: “mer-si”.",
+      "teacher_ar_tr": "quuli “shukran”. del-wa’ti quuli bil-faransii: “mer-si”."
+    },
+    {
+      "id": "how_are_you",
+      "fr": "Ça va ?",
+      "meaning_en": "How are you? / You okay?",
+      "es": "¿Qué tal?",
+      "ar_tr": "kif 7aalk? (to a woman: kif 7aalik?)",
+      "ar": "كيف حالك؟",
+      "teacher_es": "Di “ke tal”. Ahora di en francés: “sa va?”.",
+      "teacher_ar_tr": "quuli “kif 7aalk?”. del-wa’ti quuli bil-faransii: “sa va?”."
+    },
+    {
+      "id": "im_good",
+      "fr": "Ça va bien, merci.",
+      "meaning_en": "I’m good, thanks.",
+      "es": "Estoy bien, gracias.",
+      "ar_tr": "ana bikhayr, shukran.",
+      "ar": "أنا بخير، شكراً",
+      "teacher_es": "Di “es-toy byen, gra-syas”. Ahora di en francés: “sa va byan, mer-si”.",
+      "teacher_ar_tr": "quuli “ana bikhayr, shukran”. del-wa’ti quuli bil-faransii: “sa va byan, mer-si”."
+    },
+    {
+      "id": "my_name",
+      "fr": "Je m’appelle … .",
+      "meaning_en": "My name is … .",
+      "es": "Me llamo … .",
+      "ar_tr": "ismi … .",
+      "ar": "اسمي …",
+      "teacher_es": "Di “me ya-mo …”. Ahora di en francés: “zhuh ma-pèl …”.",
+      "teacher_ar_tr": "quuli “ismi …”. del-wa’ti quuli bil-faransii: “zhuh ma-pèl …”."
+    },
+    {
+      "id": "nice_to_meet",
+      "fr": "Enchanté(e) !",
+      "meaning_en": "Nice to meet you!",
+      "es": "Encantado/a.",
+      "ar_tr": "tasharrafna.",
+      "ar": "تشرفنا",
+      "teacher_es": "Di “en-kan-ta-do”. Ahora di en francés: “on-shan-té”.",
+      "teacher_ar_tr": "quuli “tasharrafna”. del-wa’ti quuli bil-faransii: “on-shan-té”."
+    },
+    {
+      "id": "i_love_french",
+      "fr": "J’adore le français.",
+      "meaning_en": "I love French.",
+      "es": "Me encanta el francés.",
+      "ar_tr": "ana u7ibb al-faransiiya.",
+      "ar": "أنا أحب الفرنسية",
+      "teacher_es": "Di “me en-kan-ta el fran-ses”. Ahora di en francés: “zha-dor luh fran-sè”.",
+      "teacher_ar_tr": "quuli “ana u7ibb al-faransiiya”. del-wa’ti quuli bil-faransii: “zha-dor luh fran-sè”."
+    },
+    {
+      "id": "see_you",
+      "fr": "À bientôt !",
+      "meaning_en": "See you soon!",
+      "es": "Hasta pronto.",
+      "ar_tr": "ila al-liqaa’ qariiban.",
+      "ar": "إلى اللقاء قريباً",
+      "teacher_es": "Di “as-ta pron-to”. Ahora di en francés: “a byan-to”.",
+      "teacher_ar_tr": "quuli “ila al-liqaa’ qariiban”. del-wa’ti quuli bil-faransii: “a byan-to”."
+    }
+  ]
+}

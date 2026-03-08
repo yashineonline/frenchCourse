@@ -1,0 +1,197 @@
+{
+  "title": "A0 Verbs (present tense)",
+  "subtitle": "Click Next — one bite at a time.",
+  "cards": [
+    {
+      "title": "ÊTRE = to be",
+      "fr": "Présent (être)",
+      "table": {
+        "headers": [
+          "Person",
+          "Form"
+        ],
+        "rows": [
+          [
+            "je",
+            "suis"
+          ],
+          [
+            "tu",
+            "es"
+          ],
+          [
+            "il / elle / on",
+            "est"
+          ],
+          [
+            "nous",
+            "sommes"
+          ],
+          [
+            "vous",
+            "êtes"
+          ],
+          [
+            "ils / elles",
+            "sont"
+          ]
+        ]
+      },
+      "examples": [
+        "Je suis Lea.",
+        "Tu es à l’école.",
+        "Nous sommes prêts."
+      ],
+      "note": "Tip pronunciation: suis ≈ “swee”, est ≈ “eh”, sont is often silent -t."
+    },
+    {
+      "title": "AVOIR = to have",
+      "fr": "Présent (avoir)",
+      "table": {
+        "headers": [
+          "Person",
+          "Form"
+        ],
+        "rows": [
+          [
+            "j’",
+            "ai"
+          ],
+          [
+            "tu",
+            "as"
+          ],
+          [
+            "il / elle / on",
+            "a"
+          ],
+          [
+            "nous",
+            "avons"
+          ],
+          [
+            "vous",
+            "avez"
+          ],
+          [
+            "ils / elles",
+            "ont"
+          ]
+        ]
+      },
+      "examples": [
+        "J’ai un café.",
+        "Tu as le temps ?",
+        "Ils ont une voiture."
+      ],
+      "note": "In speech: j’ai sounds like “zhay”. ont sounds like nasal “on”."
+    },
+    {
+      "title": "MANGER = to eat (regular -er)",
+      "fr": "Présent (manger)",
+      "table": {
+        "headers": [
+          "Person",
+          "Form"
+        ],
+        "rows": [
+          [
+            "je",
+            "mange"
+          ],
+          [
+            "tu",
+            "manges"
+          ],
+          [
+            "il / elle / on",
+            "mange"
+          ],
+          [
+            "nous",
+            "mangeons"
+          ],
+          [
+            "vous",
+            "mangez"
+          ],
+          [
+            "ils / elles",
+            "mangent"
+          ]
+        ]
+      },
+      "examples": [
+        "Je mange une pomme.",
+        "Nous mangeons ici.",
+        "Ils mangent tôt."
+      ],
+      "note": "Notice: nous mangeons has -ge- to keep the soft 'j' sound."
+    },
+    {
+      "title": "BOIRE = to drink",
+      "fr": "Présent (boire)",
+      "table": {
+        "headers": [
+          "Person",
+          "Form"
+        ],
+        "rows": [
+          [
+            "je",
+            "bois"
+          ],
+          [
+            "tu",
+            "bois"
+          ],
+          [
+            "il / elle / on",
+            "boit"
+          ],
+          [
+            "nous",
+            "buvons"
+          ],
+          [
+            "vous",
+            "buvez"
+          ],
+          [
+            "ils / elles",
+            "boivent"
+          ]
+        ]
+      },
+      "examples": [
+        "Je bois de l’eau.",
+        "Vous buvez un thé ?",
+        "Ils boivent du jus."
+      ],
+      "note": "bois ≈ “bwah”; buvons ≈ “by-von”; boivent ≈ “bwav”."
+    },
+    {
+      "title": "Mini-drill (mix)",
+      "fr": "Fill the blank (say it out loud)",
+      "drill": [
+        {
+          "prompt": "Je ____ à Toronto.",
+          "answer": "Je suis à Toronto."
+        },
+        {
+          "prompt": "Tu ____ un stylo ?",
+          "answer": "Tu as un stylo ?"
+        },
+        {
+          "prompt": "Nous ____ une pizza.",
+          "answer": "Nous mangeons une pizza."
+        },
+        {
+          "prompt": "Vous ____ de l’eau.",
+          "answer": "Vous buvez de l’eau."
+        }
+      ],
+      "note": "Say it fast, then slow, then fast again."
+    }
+  ]
+}
